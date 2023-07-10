@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&layout=compact&theme=blue-green)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasverardolayout=compact&theme=blue-green)
 
 <!--
 **thomasverardo/thomasverardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
