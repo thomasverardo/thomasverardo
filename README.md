@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/thomas-verardo-b0955b206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on ...
@@ -9,9 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasverardolayout=compact&theme=blue-green)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasverardo&layout=compact&theme=blue-green)
 
-<!--
+
 **thomasverardo/thomasverardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
